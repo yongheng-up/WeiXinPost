@@ -75,7 +75,7 @@ def get_Today_Class():
     year = localtime().tm_year
     month = localtime().tm_mon
     day = localtime().tm_mday
-    today = datetime.date(datetime(year=2025, month=10, day=10))
+    today = datetime.date(datetime(year=year, month=month, day=day))
     todayClasses = get_Week_Classes(None)[today.weekday()]
     return todayClasses
 
@@ -397,4 +397,5 @@ if __name__ == '__main__':
             print("开始睡眠:等待推送晚安心语")
             time.sleep(defference)
             print("结束睡眠")
+
 
