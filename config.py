@@ -5,11 +5,11 @@ app_id = "wx8a7e8bbc7581e833"
 app_secret = "c389aeb7211ffb216d21093d43972ca6"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-RWDKm02X-fbuYgJHJwivDNqbJiokQSKVvPCYqs57PU"
+template_id1 = "-RWDKm02X-fbuYgJHJwivDNqbJiokQSKVvPCYqs57PU"
 # 课程消息,上课提醒
 template_id2 = "6A2k9POl08v9qjrwdDmHLEqOp8y9ERtSLDDtraNIcgs"
 # 晚安心语
-template_id3 = "-fun9-2************************************"
+template_id3 = "G9CtlENtMsiUzznQHOX5ZV0OBTGMOyH0g6TmhAWAeKk"
 # 接收公众号消息的微信号
 # 这是openid
 user = ["ocgq52KqU24q1CVelS1Z3BLREUHs"]
@@ -20,15 +20,15 @@ province = "四川"
 # 所在城市
 city = "绵阳"
 # 生日，如果月份或者日期小于10，直接用对应的数字即可，例如1997-1-1，---------倒计时
-birthday = "2022-9-9"
+birthday = "2025-9-9"
 # 在一起的日子，格式同上------------计时器
 love_date = "2001-12-1"
 # 天行数据晚安心语 key
 good_Night_Key = "4082bfd944c******************"
 # -------------------------------------------------------------------------
 # 设置学期第一周开始日期
-year = 2022
-month = 8
+year = 2025
+month = 10
 day = 29
 # 每日推送时间
 post_Time = "07:35:00"
@@ -110,5 +110,6 @@ classes = \
 # 第四讲: {{fourthClass.DATA}}
 # 第五讲: {{fifthClass.DATA}}
 # 第六讲: {{sixthClass.DATA}}
+
 
 
