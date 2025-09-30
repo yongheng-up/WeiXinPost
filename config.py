@@ -1,13 +1,13 @@
 # 公众号配置
 # 公众号appId
-app_id = "wx******************"
+app_id = "wx8a7e8bbc7581e833"
 # 公众号appSecret
-app_secret = "f9a80260d33******************"
+app_secret = "c389aeb7211ffb216d21093d43972ca6"
 # 模板消息id
 # 每日消息
-template_id1 = "wX-************************************"
+template_id1 = "wX-RWDKm02X-fbuYgJHJwivDNqbJiokQSKVvPCYqs57PU"
 # 课程消息,上课提醒
-template_id2 = "loe1yHWr************************************"
+template_id2 = "6A2k9POl08v9qjrwdDmHLEqOp8y9ERtSLDDtraNIcgs"
 # 晚安心语
 template_id3 = "-fun9-2************************************"
 # 接收公众号消息的微信号
@@ -110,3 +110,4 @@ classes = \
 # 第四讲: {{fourthClass.DATA}}
 # 第五讲: {{fifthClass.DATA}}
 # 第六讲: {{sixthClass.DATA}}
+
